@@ -13,3 +13,10 @@ strip Basic_Educational_Backdoor
 ./Basic_Educational_Backdoor
 
 # how to use
+after running './Basic_Educational_Backdoor'
+
+open a new terminal
+
+run 'nc 127.0.0.1 12345'
+you can then send a signal to the system useing 'ping'
+you should receive a signal back 'pong'
