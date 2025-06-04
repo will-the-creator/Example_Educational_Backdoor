@@ -9,3 +9,5 @@ use resposibly
 gcc -o Basic_Educational_Backdoor Basic_Educational_Backdoor.c
 
 strip Basic_Educational_Backdoor
+
+./Basic_Educational_Backdoor
