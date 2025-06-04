@@ -5,9 +5,11 @@ It is intended for security research and demonstration in controlled environment
 
 use resposibly
 
-# to_run
+# to run
 gcc -o Basic_Educational_Backdoor Basic_Educational_Backdoor.c
 
 strip Basic_Educational_Backdoor
 
 ./Basic_Educational_Backdoor
+
+# how to use
